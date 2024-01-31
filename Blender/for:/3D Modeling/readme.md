@@ -12,4 +12,6 @@ video:
 # channel:
 ## [JoshGambrell](https://www.youtube.com/@JoshGambrell)
 - [Create a cylinoid in vanilla Blender!](https://youtu.be/Nxj7AcWl_iE)
-- 
+
+## [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui)
+- [Hard Surface Modeling Tutorial for Blender Beginners](https://youtu.be/i8JjMm06UEM)
