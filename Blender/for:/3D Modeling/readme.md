@@ -6,12 +6,23 @@ video:
 - [Models aren't that complicated with this approach! (Blender Tutorial)](https://youtu.be/kJyEba6gI2c)
 
 # fundamentals:
-- [COMPLETE Beginners Guide to Hard Surface Modeling (Blender Tutorial)](https://youtu.be/1qVbGr_ie30)
 - [The ONLY 5 Modeling Tools You Need To Make ANYTHING in Blender](https://youtu.be/kejQ8nX5YZA)
 
 # channel:
 ## [JoshGambrell](https://www.youtube.com/@JoshGambrell)
+
+### playlist:
+- [Vanilla Modeling Tutorials, by Josh Gambrell](https://www.youtube.com/playlist?list=PLLnvxH5YKLoIdntMT32edhbTIYG9JMTar)
+
+### fundamentals:
+- [COMPLETE Beginners Guide to Hard Surface Modeling (Blender Tutorial)](https://youtu.be/1qVbGr_ie30)
+
+### example:
 - [Create a cylinoid in vanilla Blender!](https://youtu.be/Nxj7AcWl_iE)
 
 ## [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui)
 - [Hard Surface Modeling Tutorial for Blender Beginners](https://youtu.be/i8JjMm06UEM)
+
+# advanced:
+## Generators
+- [Generators that are better than modeling](https://www.youtube.com/watch?v=VafOL4tY1xE)
