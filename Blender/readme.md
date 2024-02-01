@@ -8,6 +8,9 @@ video:
 # fundamentals:
 - [The ONLY 5 Modeling Tools You Need To Make ANYTHING in Blender](https://youtu.be/kejQ8nX5YZA)
 
+playlist:
+## [Blender 3.0 Basics Course - CG Cookie](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X)
+
 # channel:
 ## [JoshGambrell](https://www.youtube.com/@JoshGambrell)
 
